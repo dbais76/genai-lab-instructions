@@ -43,7 +43,8 @@
   * [🤖 Agentic Workflows](8-agents/2-agentic-workflows.md)
   * [🦙 Agentic Llamas](8-agents/3-agentic-llamas.md)
   * [✅ Take Agents to Prod](8-agents/4-take-agents-to-prod.md)
-* [On-Prem Practicum](9-on-prem-practicum/README.md)
+<!---* 
+[On-Prem Practicum](9-on-prem-practicum/README.md)
   * [🏠 Deploy LLMs](9-on-prem-practicum/1-deploy-llms.md)
   * [🔄 Update Canopy](9-on-prem-practicum/2-update-canopy.md)
 * [Model Optimization](10-model-optimization/README.md)
@@ -61,3 +62,5 @@
   * [📊 Usage & Observability](11-maas/6-usage-observability.md)
 * [Campus Setup](15-campus-setup/README.md)
   * [🏫 Cluster Setup](15-campus-setup/1-cluster-setup.md)
+  --->
+
